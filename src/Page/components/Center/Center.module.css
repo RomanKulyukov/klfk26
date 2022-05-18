@@ -1,0 +1,6 @@
+.Center {
+  padding-left: 50px;
+  padding-right: 50px;
+  display: flex;
+  justify-content: space-between;
+}

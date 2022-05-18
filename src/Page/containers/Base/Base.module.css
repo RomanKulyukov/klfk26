@@ -1,11 +1,12 @@
 .Base {
   background-image: url(/src/images/bg.webp);
-  height: 100vh;
+  height: 100%;
+  background-repeat: repeat-x;
+  background-attachment: fixed;
 }
 .Base__page {
   background-color: #fff;
   max-width: 1164px;
-  height: 100vh;
 
   display: block;
   margin-left: auto;
